@@ -1,3 +1,7 @@
+/**
+ * @supported 231E62EBF
+ */
+
 /*
 Banana video unlock vip
 app download link : http://tinyurl.com/y57j6hjg
@@ -47,8 +51,4 @@ if (url.indexOf(path3) != -1){
 }
 $done({body});
 
-/**
- * @supported 231E62EBF
- */
 
-//（Made by Meeta）
